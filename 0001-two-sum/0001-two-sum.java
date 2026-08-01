@@ -1,4 +1,5 @@
-class Solution {
+class Solution {   // TC : o(N)    ,   SC : O(N)
+
     public int[] twoSum(int[] nums, int target) {
 
         // 1. Create a diary(Hashmap) to remember "numbers" and their "index" 
